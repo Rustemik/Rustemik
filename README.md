@@ -1,4 +1,4 @@
-[![](assets/intro.png)](https://github.com/rustemik?tab=repositories)
+[![](assets/header.png)](https://github.com/rustemik?tab=repositories)
 <h1 align="left">Hi 👋, I'm Rustem</h1>
 <h3 align="center">Flutter Developer</h3>
 
